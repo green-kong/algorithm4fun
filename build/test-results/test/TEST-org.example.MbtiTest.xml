@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.MbtiTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-01-25T07:00:08" hostname="Donghunui-MacBookAir.local" time="0.01">
+  <properties/>
+  <testcase name="test()" classname="org.example.MbtiTest" time="0.009"/>
+  <testcase name="test2()" classname="org.example.MbtiTest" time="0.0"/>
+  <system-out><![CDATA[TCMA
+RCJA
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
